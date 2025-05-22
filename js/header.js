@@ -13,6 +13,7 @@ export function header (isMainPage = false) {
             <a href="${path}/todo/">Ad-to-Do</a>
             <a href="${path}/add-block/">ad-block</a>
             <a href="${path}/todo-beter/">Add todo</a>
+            <a href="${path}/krepsinis/">Krepsinis</a>
         </nav>
     </header>`) 
     } 
